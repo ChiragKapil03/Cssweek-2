@@ -163,7 +163,7 @@ header {
   font-weight: 500;
   white-space: nowrap;
 }
-
+/* hero section image properties */
 .hero-section {
   height: 400px;
   background-image: url("fallpage.jpg");
