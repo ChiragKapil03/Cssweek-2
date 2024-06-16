@@ -7,7 +7,7 @@ The use of flexbox and grid layouts allows for flexible and responsive design.
 
 ## Hosted Link
 
-The project is hosted on GitHub Pages. [Live Demo]()
+The project is hosted on GitHub Pages. [Live Demo](https://chiragkapil03.github.io/Cssweek-2/WeekTest4%20CSS/weekly-test4.html)
 
 ## Screenshots and Explanations
 
